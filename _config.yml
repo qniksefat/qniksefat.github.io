@@ -12,15 +12,17 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air"
+
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "We are our brains."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "M Qasem Niksefat"
-description              : "An amazing website."
+description              : "Grad student in Neuroscience."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +83,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : qasemnik
 facebook:
   username               :
   app_id                 :
