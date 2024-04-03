@@ -13,7 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin    : "plum"
+minimal_mistakes_skin    : "dirt"
 
 
 # Site Settings
@@ -26,7 +26,7 @@ description              : "Exploring the intersection of neuroscience and machi
 url                      : "https://qniksefat.github.io" # Update with the actual URL
 baseurl                  : ""
 repository               : # "qniksefat/portfolio" # Update with the actual repository
-logo                     : # "/assets/images/logo.png" # Update with an actual logo path
+logo                     : "/assets/logo.jpeg" # Update with an actual logo path
 masthead_title           : "Qasem Nick"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
