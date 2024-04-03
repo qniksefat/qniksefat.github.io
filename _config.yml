@@ -26,7 +26,7 @@ description              : "Exploring the intersection of neuroscience and machi
 url                      : "https://qniksefat.github.io" # Update with the actual URL
 baseurl                  : ""
 repository               : # "qniksefat/portfolio" # Update with the actual repository
-logo                     : "/assets/logo.jpeg" # Update with an actual logo path
+logo                     : "/assets/images/logo.png" # Update with an actual logo path
 masthead_title           : "Qasem Nick"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -116,15 +116,15 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/niksefat"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/qniksefat"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/niksefat"
+# # Site Footer
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/qniksefat"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://linkedin.com/in/niksefat"
 
 
 # Reading Files
