@@ -18,14 +18,16 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "We are our brains."
+title                    : "Qasem Nick - Machine Learning Engineer & Data Scientist"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "M Qasem Niksefat"
-description              : "Grad student in Neuroscience."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+subtitle                 : "Bridging Neuroscience and Machine Learning"
+name                     : "Qasem Nick"
+description              : "Exploring the intersection of neuroscience and machine learning to develop innovative AI-driven solutions."
+url                      : "https://qniksefat.github.io" # Update with the actual URL
+baseurl                  : ""
+repository               : # "qniksefat/portfolio" # Update with the actual repository
+logo                     : # "/assets/images/logo.png" # Update with an actual logo path
+masthead_title           : "Qasem Nick"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -74,23 +76,20 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-naver_site_verification  :
-yandex_site_verification :
-baidu_site_verification  :
 
 # Social Sharing
 twitter:
   username               : qasemnik
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+# og_image                 : "/assets/images/og_image.jpg" # Update with an actual image path
+social:
+  type                   : Person
+  name                   : "Qasem Nick"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/niksefat"
+
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -106,52 +105,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Qasem Niksefat"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Grad student in Neuroscience"
-  location         : "Kingston, Canada"
-  email            :
+  name             : "Qasem Nick"
+  avatar           : "/assets/images/bio-photo.jpg" # Update with an actual image path
+  bio              : "A grad student in Neuroscience at Queen’s University, passionate about applying machine learning to solve complex problems in neuroscience."
+  location         : "Toronto, ON, Canada"
+  email            : "qasemnick@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:qniksefat@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/qasemnik"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:qasemnick@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/qniksefat"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/qniksefat"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/niksefat"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/qasemnik"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/qniksefat"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/niksefat"
 
 
 # Reading Files
